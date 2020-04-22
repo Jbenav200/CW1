@@ -1,4 +1,4 @@
-#Cycle Routes App
+# Cycle Routes App
 ### The following application is a command line application built in Scala
 
 This project was compl;eted for my Advanced Programming module for university
