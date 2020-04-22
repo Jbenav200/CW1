@@ -352,7 +352,7 @@ object CycleRoutesApp extends App {
     }
   }
 
-  // This function creates a unique map for users which contains route names, route details and comments for each stage
+  // This function creates a unique map for users which contains route names and comments for each route.
   def create_user_list(lst:List[String], map:Map[String, List[(Int, String, Float)]]):Map[String, String] = {
     var userMap:Map[String, String] = Map.empty[String, String]
     var key:String = ""
